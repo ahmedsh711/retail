@@ -44,7 +44,7 @@ retail-streamlit-app/
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/ahmedsh711/Retail_Sales_Streamlit_Dashboard
+git clone https://github.com/ahmedsh711/retail
 cd retail-streamlit-app
 ```
 
@@ -63,7 +63,7 @@ streamlit run app.py
 ## 🌐 Live App
 
 You can view the live hosted app here:  
-**🔗 https://your-username-retail-streamlit-app.streamlit.app**
+**🔗 (https://retail.streamlit.app/)**
 
 > Replace the link with your actual Streamlit Cloud deployment URL.
 
@@ -85,5 +85,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
-*Created with ❤️ by [Ahmed Al-Shobaki](https://github.com/your-username)*
+*Created with ❤️ by [Ahmed Al-Shobaki](https://github.com/ahmedsh711)*
 "# retail" 
