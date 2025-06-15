@@ -503,5 +503,3 @@ with tab5:
     loc_payment = df.groupby(['Payment Method','Location']).size().unstack()
     fig31 = px.bar(loc_payment,barmode='group',text_auto=True,title='Payment Method: Online Vs. Offline',color_discrete_sequence=px.colors.qualitative.Pastel)
     st.plotly_chart(fig31, use_container_width = True) 
-
->>>>>>> 0820cc7 (Initial commit for Streamlit app)
