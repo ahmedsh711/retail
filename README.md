@@ -86,4 +86,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ---
 
 *Created with ❤️ by [Ahmed Al-Shobaki](https://github.com/ahmedsh711)*
-"# retail" 
