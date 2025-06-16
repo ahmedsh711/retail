@@ -64,9 +64,6 @@ streamlit run app.py
 
 You can view the live hosted app here:  
 **🔗 (https://retail.streamlit.app/)**
-
-> Replace the link with your actual Streamlit Cloud deployment URL.
-
 ---
 
 ## 🛠️ Built With
