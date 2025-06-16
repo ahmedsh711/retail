@@ -71,9 +71,6 @@ You can view the live hosted app here:
 - [Streamlit](https://streamlit.io/)
 - [Pandas](https://pandas.pydata.org/)
 - [Plotly](https://plotly.com/)
-- [Matplotlib](https://matplotlib.org/)
-- [Scikit-learn](https://scikit-learn.org/) (optional for modeling)
-
 ---
 
 ## 📌 License
